@@ -11,14 +11,14 @@ The dataset includes a column for whether an employee has left, so supervised ma
 
 ## Data Sources
 
-The data file 'HR_capstone_dataset.csv' was provided by Google and, for each employee, contains columns indicating employee behaviors and histories. The following are the dependent and key independent variables for the project.
+The data file 'HR_capstone_dataset.csv' was provided by Google and, for each employee, contains columns indicating employee behaviors and histories. The following are the dependent and key independent variables after their renaming. A new column was also created called 'not_fired_hours'.
 * `Dependent`: left
-* `Independent`: satisfaction_level, avg_monthly_hours
+* `Independent`: satisfaction_level, avg_monthly_hours, salary, current_proj_num, not_fired_hours
 
 
 ## How to Use
 
-The deliverables show increasingly more advanced data analysis topics as the course continued on. The latter labs and deliverables apply the previously learned concepts with the latter labs providing the bulk of the project's work.
+The 'Capstone Executive Summary' file states the problem, plan, and findings of the data analysis which is all present in the 'Salifort Motors Employee Retention' jupyter notebook file.
 
 ## Author
 
