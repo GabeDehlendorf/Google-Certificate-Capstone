@@ -11,7 +11,7 @@ The dataset includes a column for whether an employee has left, so supervised ma
 
 ## Data Sources
 
-The data file 'Tiktok Data.csv' was provided by Google and, for each tiktok, contains many columns indicating tiktok properties and engagement levels. The following are the dependent and key independent variables for the project.
+The data file 'HR_Capstone_Dataset.csv' was provided by Google and, for each tiktok, contains many columns indicating tiktok properties and engagement levels. The following are the dependent and key independent variables for the project.
 * `Dependent`: left
 * `Independent`: video_id, video_view_count, video_share_count, video_download_count, video_duration_sec
 
